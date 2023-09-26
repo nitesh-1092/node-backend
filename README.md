@@ -10,15 +10,6 @@ To simply run the backend, run the script below and open to view in browser. Thi
 In the project directory, you can follow the below steps:
 ## Steps 
 
-Step1- download the zip file in project directory
-Step2- Open command prompt and go into Node-backend folder
-Step3- Make sure Node Js 18.18.0 (maybe 2 version lower) is in you laptop
-Step4- Run- npm install
-Step5-Run- npm i –g concurrently
-Step5- Run- cd node-frontend
-Step7- Run- npm install
-Step8- Run- cd ..
-Step9- Run- npm run dev
 ![Steps](image-2.png)
 
 ### `npm run dev` to concurrently start server and frontend React script
